@@ -5,5 +5,10 @@
 #Find the fraction of the number and assign to a variable called 'answer'.
  
 #Print the answer.
- 
 #Print the number.
+number = 567
+number = number / 2
+answer = number - int(number)
+print(answer,'\n',number)
+
+ 
